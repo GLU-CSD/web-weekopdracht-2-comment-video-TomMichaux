@@ -1,4 +1,5 @@
 <?php
+
 class Reactions
 {
     static function setReaction($postArray){
@@ -67,4 +68,6 @@ class Reactions
         return $array;
     }
 }
+
+
 
